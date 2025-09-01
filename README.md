@@ -15,8 +15,7 @@
 
 - 🏢 I'm a **Software Engineer** and a **Full-Stack Web Developer**.  
 - 👨‍💻 As a **Computer Science student**, I'm constantly learning and exploring new technologies to improve my skills.  
-- 🌟 I'm passionate about **web development**, **problem-solving**.  
-- 👨‍💻 Active participant on **LeetCode** and **Codeforces**.  
+- 🌟 I'm passionate about **web development**, **problem-solving**.   
 - 💬 Ask me about my experience with **Java**, **JavaScript**, **OOP**, **Data Structures**, or anything related to software development.  
 - ⚡ Fun Fact: My typing speed is **60 WPM**, making me a fast and efficient coder.  
 - 🌐 Check out my **portfolio** soon to explore some of my recent projects.  
